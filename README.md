@@ -13,7 +13,7 @@ As a Data Analyst, I was tasked with:
 ---
 
 ## Dashbord Interface
-!=image_alt
+![image alt]()
 
 ---
 
