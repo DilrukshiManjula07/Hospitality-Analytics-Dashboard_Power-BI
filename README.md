@@ -15,7 +15,7 @@ As a Data Analyst, I was tasked with:
 ## Dashbord Interface
 ![image alt](https://github.com/DilrukshiManjula07/Hospitality-Analytics-Dashboard_Power-BI/blob/4472557a0fbb01df046a35b23c2ebc92ebc84cd3/Hospitality-Full%20Project.jpg)
 ![image alt](https://github.com/DilrukshiManjula07/Hospitality-Analytics-Dashboard_Power-BI/blob/6f2916a46f95ec5137521b9789b44cfe84640e3a/Hospitality-Full%20Project_revenue.jpg)
-![image alt](https://github.com/DilrukshiManjula07/Hospitality-Analytics-Dashboard_Power-BI/blob/4472557a0fbb01df046a35b23c2ebc92ebc84cd3/Hospitality-Full%20Project.jpg)
+![image alt](https://github.com/DilrukshiManjula07/Hospitality-Analytics-Dashboard_Power-BI/blob/db25aa3d9bab568a58fcd6cb1a904cbb1eafc012/Hospitality-Full%20Project_with%20tooltip.jpg)
 ---
 
 ## 🎯 Key Metrics Tracked
